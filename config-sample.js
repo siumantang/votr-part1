@@ -3,10 +3,10 @@ var config = {};
 config.couchdb = {};
 config.twilio = {};
 
-config.couchdb.url = 'https://couchserver';
+config.couchdb.url = 'https:/siumantang@cloudant.com';
 config.couchdb.port = 443;
-config.couchdb.username = 'xxx';
-config.couchdb.password = 'yyy';
+config.couchdb.username = 'siumantang';
+config.couchdb.password = 'st022781';
 
 config.twilio.sid = 'ACxxx';
 config.twilio.key = 'yyy';
